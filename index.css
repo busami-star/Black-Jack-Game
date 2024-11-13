@@ -1,0 +1,29 @@
+
+body {
+  background-image: url(https://th.bing.com/th/id/R.69b878a6adb35296b23f247003230e14?rik=oB14bn7wcT%2ftKw&riu=http%3a%2f%2fcliparts.co%2fcliparts%2f8cG%2fbe4%2f8cGbe4xRi.png&ehk=lPjnaIskma%2fL8v4pZrTEU7XY%2f9ZEPNrz1qelf53%2fH0k%3d&risl=&pid=ImgRaw&r=0);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
+  
+  text-align: center;
+  font-weight: bold;
+  
+  
+}
+
+h1 {
+  color: goldenrod;
+}
+
+#message-el {font-style: italic;
+  
+}
+button{
+  width: 150px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+  border: none;
+  border-radius: 2px;
+  background-color: grey;
+  margin-bottom: 4px;
+
+}
